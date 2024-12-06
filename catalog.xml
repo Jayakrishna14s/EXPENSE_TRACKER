@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <public
+        name="http://java.sun.com/xml/ns/javaee/web-app_3_1.xsd"
+        uri="http://java.sun.com/xml/ns/javaee/web-app_3_1.xsd" />
+</catalog>
